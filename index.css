@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <style>
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        color: #333;
+        font-size: 2em;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      p {
+        color: #666;
+        font-size: 1.2em;
+        line-height: 1.5;
+        margin: 0 20px;
+      }
+      h2 {
+        color: #333;
+        font-size: 1.5em;
+        text-align: center;
+        margin-top: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a basic website created using HTML.</p>
+    <h2>Heading 2</h2>
+    <p>This is another paragraph of text.</p>
+  </body>
+</html>
